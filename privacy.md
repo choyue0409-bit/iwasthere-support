@@ -6,6 +6,8 @@ permalink: /privacy/
 
 生效日期 / Effective date: 2026-08-12
 
+最近修订 / Last revised: 2026-10-04
+
 ## 中文
 
 ### 概要
@@ -25,6 +27,10 @@ App 会根据你的操作在设备上保存：
 ### 照片和视频
 
 当前版本允许你拍摄或从系统选择器选择照片和视频，并将你确认保存的媒体存入 App 的本地文件目录、关联到相应演出记录。App 不会把这些媒体上传给开发者。
+
+### 票根和节目单识别
+
+你主动选择用于识别的票根或节目单图片，会通过 Apple Vision 在设备本地处理，用于提取文字并辅助填写记录。识别图片和文字不会因识别而上传给开发者或第三方识别服务。识别结果可能有误，你可以复核、修改或不采用。
 
 ### 本地备份与恢复
 
@@ -51,7 +57,7 @@ App 不会有意收集儿童的个人信息，也没有面向儿童的账户、�
 
 ### 政策变更
 
-如果未来加入会员账户、云备份、跨设备同步、分析服务或媒体持久化，本政策会在相关功能上线前更新，并在需要时征求你的同意。
+如果未来加入会员账户、云备份、跨设备同步或分析服务，本政策会在相关功能上线前更新，并在需要时征求你的同意。
 
 ### 联系方式
 
@@ -70,6 +76,10 @@ The app stores event records you create or edit, recently deleted records, and a
 ### Photos and Videos
 
 The current version lets you capture or select photos and videos through iOS system interfaces. Media that you confirm and save is stored in the app's local files and linked to the relevant event record. It is not uploaded to the developer.
+
+### Ticket and Program Text Recognition
+
+Images you choose for ticket or program recognition are processed on-device using Apple Vision to extract text and help fill in your records. Recognition does not upload the images or extracted text to the developer or a third-party recognition service. Results may be inaccurate; you can review, edit, or discard them.
 
 ### Local Backup and Restore
 
